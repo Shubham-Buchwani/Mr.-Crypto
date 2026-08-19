@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.cryptopulse.app-debug-64:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.cryptopulse.app-main-66:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.cryptopulse.app-debug-64:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.cryptopulse.app-main-66:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.cryptopulse.app-debug-64:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.cryptopulse.app-main-66:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.cryptopulse.app-debug-64:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.cryptopulse.app-main-66:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.cryptopulse.app-debug-64:/drawable_ic_splash_logo.xml.flat",
+        "source": "com.example.cryptopulse.app-main-66:/drawable/ic_splash_logo.xml"
+    },
+    {
+        "merged": "com.example.cryptopulse.app-debug-64:/drawable_ic_mr_crypto_vector.xml.flat",
+        "source": "com.example.cryptopulse.app-main-66:/drawable/ic_mr_crypto_vector.xml"
+    }
+]

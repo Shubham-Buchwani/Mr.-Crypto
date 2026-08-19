@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Combined Top Hat and Monocle for single color tint -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 6 11 L 6 4 C 6 3 7 2 8 2 L 16 2 C 17 2 18 3 18 4 L 18 11 Z M 3 11 L 21 11 C 22 11 22 13 21 13 L 3 13 C 2 13 2 11 3 11 Z M 14 15 C 15.657 15 17 16.343 17 18 C 17 19.657 15.657 21 14 21 C 12.343 21 11 19.657 11 18 C 11 16.343 12.343 15 14 15 Z" />
+</vector>

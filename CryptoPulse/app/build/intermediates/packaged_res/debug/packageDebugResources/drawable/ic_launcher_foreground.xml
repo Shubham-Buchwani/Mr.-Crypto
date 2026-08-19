@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- A simple crypto-like hexagon shape -->
+    <path
+        android:fillColor="#00BFA6"
+        android:pathData="M54,20 L84,40 L84,70 L54,90 L24,70 L24,40 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M49,45 L59,45 L59,65 L49,65 Z" />
+</vector>
