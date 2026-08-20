@@ -1,4 +1,4 @@
-# CryptoPulse
+# Mr. Crypto
 
 A production-quality cryptocurrency price tracker Android application built with Kotlin and Jetpack Compose.
 
